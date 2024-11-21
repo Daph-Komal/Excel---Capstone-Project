@@ -1,0 +1,13 @@
+## Project Introduction: Cab Industry Investment Analysis
+In this project, XYZ, a prominent private equity firm in the US, seeks to identify the most profitable 
+investment opportunity between two cab companies, Black Cab and Red Cab, amidst the rapid growth in the cab transportation sector. 
+Using multiple datasets representing various facets of the companies' performance, we aim to deliver actionable insights and data-driven 
+recommendations through a visually compelling and insightful presentation.
+
+### Key Objectives:
+Analyze and compare profitability trends of Black Cab and Red Cab.
+Evaluate company performance over time, irrespective of the year.
+Identify top customers by income and profitability, highlighting the highest profitable customer.
+Examine demographic trends, including gender, age group, and income group preferences in cab usage.
+Determine customer payment preferences (cash vs. card) for Red Cab in 2018.
+Create a dynamic profitability dashboard segmented across demographics to guide investment decisions.
